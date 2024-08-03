@@ -1,0 +1,28 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "CRUD Operation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paras9639/task-management.git"
+  },
+  "author": "paras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paras9639/task-management/issues"
+  },
+  "homepage": "https://github.com/paras9639/task-management#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fastify": "^4.28.1",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4",
+    "nstall": "^0.2.0"
+  }
+}
